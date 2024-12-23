@@ -24,7 +24,7 @@ To run this project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/sanket6000/portfolio-website.git
    ```
 
 2. Navigate to the project directory:
@@ -45,7 +45,7 @@ Explore the website to:
 ## Screenshots
 
 ![Home Page Screenshot](https://github.com/user-attachments/assets/cd2c08d6-fd05-4602-97f1-3ce9b61291fc)
-![Projects Page Screenshot](![image](https://github.com/user-attachments/assets/d5e39748-bf88-42dc-80fc-910c881a0bdd))
+![Projects Page Screenshot](https://github.com/user-attachments/assets/d5e39748-bf88-42dc-80fc-910c881a0bdd)
 
 ## Roadmap
 
@@ -66,8 +66,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - Email: [sanketthale98@gmail.com](mailto:sanketthale98@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sanket-thale-684253257/)
-- GitHub: [GitHub Profile](https://github.com/sanket6000)
+- LinkedIn: [My_LinkedIn Profile](https://www.linkedin.com/in/sanket-thale-684253257/)
+- GitHub: [My_GitHub Profile](https://github.com/sanket6000)
 
 ---
 
